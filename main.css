@@ -1,0 +1,12 @@
+main {
+  width: 100vw;
+  height: 34rem;
+  background: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+main p {
+  color: white;
+  font-size: 10rem;
+}
